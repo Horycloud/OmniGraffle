@@ -82,5 +82,5 @@
 
 <div align=center><img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gobrhln7alj31bh0miq70.jpg" width="70%" height="70%"></div>
 
-> 当然，画图只是辅助技能，最终还是要回归到代码，不能将过多精力放在如何提升画图的技能上，这样不就本末倒置了嘛？
+> 当然，画图只是辅助技能，最终还是要回归到代码，不能将过多精力放在如何提升画图的技能上，这样不就本末倒置了嘛。
 

@@ -28,8 +28,9 @@
 
 一般的填充图是不需要描边的，有了描边会给人一种廉价感
 
-<img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gobrg07a3dj319809yjrd.jpg" width="25%" height="25%">
+<div align=center><img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gobrg07a3dj319809yjrd.jpg" width="25%" height="25%"></div>
 
+<div align=center></div>
 2. **圆弧边**
 
 有时候加个圆弧会让图形变得不那么突兀。

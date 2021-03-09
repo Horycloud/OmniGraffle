@@ -30,12 +30,11 @@
 
 <div align=center><img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gobrg07a3dj319809yjrd.jpg" width="25%" height="25%"></div>
 
-<div align=center></div>
 2. **圆弧边**
 
 有时候加个圆弧会让图形变得不那么突兀。
 
-<img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gobrg5cdeyj30og05kq3t.jpg" width="40%" height="40%">
+<div align=center><img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gobrg5cdeyj30og05kq3t.jpg" width="40%" height="40%"></div>
 
 3. **颜色简洁**
 
@@ -43,51 +42,43 @@
 
 一般用浅灰色打底，深灰色填充，字体颜色选择白色，重点标注的地方可选择红色或黄色，对比如下：
 
-<img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gobrg7os39j31ne0mfwfm.jpg" width="25%" height="25%">
+<div align=center><img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gobrg7os39j31ne0mfwfm.jpg" width="25%" height="25%"></div>
 
 4. **选色**
 
 如果你比较专业可直接使用七彩盘选色，七彩盘选色的好处是可以提供更广泛的色域。
 
-<img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gobrgdnmtfj30co0my0zg.jpg" width="30%" height="30%">
+<div align=center><img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gobrgdnmtfj30co0my0zg.jpg" width="30%" height="30%"></div>
 
 如果你是新手，可以通过其他方式，比如画笔选色，画笔选色的好处是颜色定位容易，因为在一般的绘图中使用的颜色是比较单一的。
 
-<img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gobrgg84z8j30cw0n2dob.jpg" width="30%" height="30%">
+<div align=center><img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gobrgg84z8j30cw0n2dob.jpg" width="30%" height="30%"></div>
 
 5. **透明度**
 
 透明读是有必要的，比如画 CAP 定理时，选择 50% 透明读来表示交集的效果
 
-<img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gobrgk9reaj30u00u0wk8.jpg" width="25%" height="25%">
-
-
+<div align=center><img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gobrgk9reaj30u00u0wk8.jpg" width="25%" height="25%"></div>
 
 ## 你可以用它画什么？
 
 1. **UML 图**
 
-
-<img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gobrgwh1v3j31m70izjv1.jpg" width="30%" height="30%">
-
+<div align=center><img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gobrgwh1v3j31m70izjv1.jpg" width="30%" height="30%"></div>
 
 2. **logo**
 
 你可以制作各种logo
 
-<img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gobrh0pes0j322c0u0tob.jpg" width="25%" height="25%">
-
+<div align=center><img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gobrh0pes0j322c0u0tob.jpg" width="25%" height="25%"></div>
 3. **流程图**
 
-
-<img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gobrh8zscqj30u0167thf.jpg" width="30%" height="30%">
-
+<div align=center><img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gobrh8zscqj30u0167thf.jpg" width="30%" height="30%"></div>
 4. **示意图**
 
+<div align=center><img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gobrhe5lqrj31a90u0wob.jpg" width="35%" height="35%"></div>
 
-<img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gobrhe5lqrj31a90u0wob.jpg" width="35%" height="35%">
-
-<img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gobrhln7alj31bh0miq70.jpg" width="40%" height="40%">
+<div align=center><img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gobrhln7alj31bh0miq70.jpg" width="40%" height="40%"></div>
 
 当然，画图只是辅助技能，最终还是要回归到代码，不能将过多精力放在如何提升画图的技能上，这样不就本末倒置了嘛？
 

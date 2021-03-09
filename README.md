@@ -27,6 +27,7 @@
 1. **描边**
 
 一般的填充图是不需要描边的，有了描边会给人一种廉价感
+<img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gobrg07a3dj319809yjrd.jpg" width="15%" height="15%">
 
 <img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gobrg07a3dj319809yjrd.jpg" alt="1" style="zoom:15%;" />
 
